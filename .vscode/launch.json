@@ -9,12 +9,6 @@
             "name": "Launch Java Program",
             "request": "launch",
             "mainClass": "PrimitiveDatatypes.java"
-        },
-        {
-            "type": "java",
-            "name": "Launch Current File",
-            "request": "launch",
-            "mainClass": "${file}"
         }
     ]
 }
