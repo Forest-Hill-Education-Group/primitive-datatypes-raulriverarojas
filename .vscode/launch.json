@@ -6,16 +6,15 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Launch Current File",
+            "name": "Launch Java Program",
             "request": "launch",
-            "mainClass": "${file}"
+            "mainClass": "PrimitiveDatatypes.java"
         },
         {
             "type": "java",
-            "name": "Launch PrimitiveDatatypes",
+            "name": "Launch Current File",
             "request": "launch",
-            "mainClass": "PrimitiveDatatypes",
-            "projectName": "JavaPrimitiveDatatypes"
+            "mainClass": "${file}"
         }
     ]
 }
